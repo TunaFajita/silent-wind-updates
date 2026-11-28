@@ -2,29 +2,29 @@
   "schema": 1,
   "platforms": {
     "Windows": {
-      "version": "0.4.0",
-      "notes": "First tester build with the update checker. The whole world is now one open map.",
+      "version": "0.4.1",
+      "notes": "Fixes: you can leave the Riverbank Camp after Chapter 2, the camp blends into Westvale, and no more freeze when walking between regions.",
       "architectures": [
         "x86_64"
       ],
-      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.0/TheSilentWind.zip"
+      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.1/TheSilentWind.zip"
     },
     "macOS": {
-      "version": "0.4.0",
-      "notes": "First tester build with the update checker. The whole world is now one open map.",
+      "version": "0.4.1",
+      "notes": "Fixes: you can leave the Riverbank Camp after Chapter 2, the camp blends into Westvale, and no more freeze when walking between regions.",
       "architectures": [
         "arm64",
         "x86_64"
       ],
-      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.0/TheSilentWind-macOS.zip"
+      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.1/TheSilentWind-macOS.zip"
     },
     "Android": {
-      "version": "0.4.0",
-      "notes": "First Android tester build with the update checker. The whole world is now one open map.",
+      "version": "0.4.1",
+      "notes": "Fixes: you can leave the Riverbank Camp after Chapter 2, the camp blends into Westvale, and no more freeze when walking between regions.",
       "architectures": [
         "arm64"
       ],
-      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.0/TheSilentWind.apk"
+      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.1/TheSilentWind.apk"
     }
   }
 }
