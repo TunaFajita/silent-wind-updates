@@ -1,4 +1,22 @@
 {
   "schema": 1,
-  "platforms": {}
+  "platforms": {
+    "Windows": {
+      "version": "0.4.0",
+      "notes": "First tester build with the update checker. The whole world is now one open map.",
+      "architectures": [
+        "x86_64"
+      ],
+      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.0/TheSilentWind.zip"
+    },
+    "macOS": {
+      "version": "0.4.0",
+      "notes": "First tester build with the update checker. The whole world is now one open map.",
+      "architectures": [
+        "arm64",
+        "x86_64"
+      ],
+      "url": "https://github.com/TunaFajita/silent-wind-updates/releases/download/v0.4.0/TheSilentWind-macOS.zip"
+    }
+  }
 }
